@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+dataset/
+model/defect_model.pth
+*.egg-info/
+.env
